@@ -7,6 +7,9 @@ This project was developed using the Microsoft Azure resources -- Data Factory, 
 The flow of the project:
 ![Data Flow](images/data%20flow.png)
 
+Data:
+![Synapse Analytics](images/synapse%20analytics.png)
+
 
 ## 📊 Key Features
 - **Gender Participation Analysis**: Calculate male and female athlete counts by country, discipline, and overall.
