@@ -3,7 +3,9 @@
 This project explores athlete performance, gender participation, and medal distribution at the Tokyo 2020 Olympics. Using SQL-based data analysis, the project leverages data stored in tables for athletes, coaches, gender participation (`entriesgender`), and medal standings to generate valuable insights.
 
 This project was developed using the Microsoft Azure resources -- Data Factory, Data Lake Gen2, Databricks, Synapse Analytics
+
 The flow of the project:
+![Data Flow](images/data%20flow.png)
 
 
 ## 📊 Key Features
